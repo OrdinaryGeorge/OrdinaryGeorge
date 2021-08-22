@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OrdinaryGeorge
+- 👀 I’m interested in Coputer
+- 🌱 I’m currently learning code
+- 💞️ I’m looking to collaborate on anything me knows
+- 📫 How to reach me by discord imasuckga#9567
