@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @OrdinaryGeorge
-- 👀 I’m interested in Coputer
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on anything me knows
-- 📫 How to reach me by discord imasuckga#9567
+- 👀 I’m interested in FiveM/QBCore Coding and Developing
+
+I Have my own FiveM server Recently started! Developing is phenominal 
+
+
+
